@@ -18,5 +18,11 @@
     <ClCompile Include="_alfa_UseArrangement.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_bravo_ArrangementNamePointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_charlie_ArrangeResultPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
